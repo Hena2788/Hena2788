@@ -1,5 +1,5 @@
 # 💫 About Me:
-'m a passionate full-stack developer with expertise in Next.js and Laravel. I love building scalable web applications
+I'm a passionate full-stack developer with expertise in Next.js and Laravel. I love building scalable web applications
 
 
 ## 🌐 Socials:
